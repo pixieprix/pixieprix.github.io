@@ -12,14 +12,14 @@ I am excited about using machine learning, and more broadly, data-driven techniq
 
 ## Projects
 
-Some of my past (and ongoing) projects can be found below:
+Some of my past (and ongoing) projects which have been organised somewhat thematically can be found below:
 
-### Bayesian
+### Bayesian:
 
 - [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package fitting finite mixture models with a random number of components.
 - Research Experience Project 1: Performed preliminary studies of encoding a linear(-mixed model) prior into a Variational AutoEncoder.
 
-### Reinforcement Learning
+### Reinforcement Learning:
 
 - [Deep offline reinforcement learning for real-world treatment optimization applications](https://openreview.net/forum?id=pKkq17YQgK1): in submission
 - [A mini-class project](https://pixieprix-rl-final-projectstreamlit-projectstreamlit-app-eekbxl.streamlit.app/): Implemented DQN and DDPG on the mountaincar environment. Also implemented and provided a summary of a more recent paper: Dueling network architectures for deep reinforcement learning.
@@ -27,8 +27,12 @@ Some of my past (and ongoing) projects can be found below:
 
 ### General Machine Learning:
 
-- Predicting patient outcomes based on real-world Electronic Healthcare Records. Looked at quantifying the uncertainty in model predictions.
+- Predicted patient outcomes based on real-world Electronic Healthcare Records. Looked at quantifying the uncertainty in model predictions.
 
+
+## Miscellaneous:
+
+Aside from research, I enjoy interacting and interfacing with people! I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR. More recently, I volunteered as a Speaker's buddy @ Slush 2022.
 
 <!-- ## News
 
