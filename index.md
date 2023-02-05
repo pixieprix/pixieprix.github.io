@@ -14,6 +14,10 @@ I am excited about using machine learning, and more broadly, data-driven techniq
 
 Some of my past (and ongoing) projects which have been organised somewhat thematically can be found below:
 
+#### General Machine Learning:
+
+- Predicted patient outcomes based on real-world Electronic Healthcare Records. Looked at quantifying the uncertainty in model predictions.
+
 #### Bayesian:
 
 - [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package fitting finite mixture models with a random number of components.
@@ -24,10 +28,10 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 - [Deep offline reinforcement learning for real-world treatment optimization applications](https://openreview.net/forum?id=pKkq17YQgK1): in submission
 - [A mini-class project](https://pixieprix-rl-final-projectstreamlit-projectstreamlit-app-eekbxl.streamlit.app/): Implemented DQN and DDPG on the mountaincar environment. Also implemented and provided a summary of a more recent paper: Dueling network architectures for deep reinforcement learning.
 
+#### Natural Language Processing:
 
-#### General Machine Learning:
+- [A mini-personal project](https://github.com/pixieprix/MaLSTM): Largely replicated the model detailed in the paper titled Siamese Recurrent Architectures for Learning Sentence Similarity. 
 
-- Predicted patient outcomes based on real-world Electronic Healthcare Records. Looked at quantifying the uncertainty in model predictions.
 
 
 ## Miscellaneous
