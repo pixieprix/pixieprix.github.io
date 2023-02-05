@@ -4,12 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! My name is Priscilla, and I am a first year Master's student at Aalto University, majoring in Machine Learning. I am also part of the doctoral track.
+This means I get to participate in research activities based in the Department of Computer Science:)
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I am excited about using machine learning, and more broadly, data-driven techniques to deliver impactful solutions.
 
 ## News
 
