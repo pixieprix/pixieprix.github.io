@@ -30,7 +30,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 #### Natural Language Processing:
 
-- [A mini-personal project](https://github.com/pixieprix/MaLSTM): Largely replicated the model detailed in the paper titled Siamese Recurrent Architectures for Learning Sentence Similarity. 
+- [A mini-personal project](https://github.com/pixieprix/MaLSTM): Largely replicated the model architecture detailed in the paper titled Siamese Recurrent Architectures for Learning Sentence Similarity. 
 
 #### Others:
 
