@@ -34,7 +34,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 #### Others:
 
-- [Job-search](https://github.com/pixieprix/job_search): A mini web-app that visualises scraped data pertaining to job advertisements. Built with Selenium and BeautifulSoup (Scraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
+- [Job-search](https://github.com/pixieprix/job_search): A mini web-app that visualises scraped data pertaining to job advertisements found on indeed.com. Built with Selenium and BeautifulSoup (webscraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
 
 
 ## Miscellaneous
