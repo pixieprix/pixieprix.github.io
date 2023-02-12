@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Priscilla, and I am a first year Master's student at Aalto University, majoring in Machine Learning. I am also part of the doctoral track.
+Hi! My name is Priscilla, and I am a first year Master's student at Aalto University, majoring in Machine Learning, Data Science and Artificial Intelligence. I am also part of the doctoral track.
 This means I get to participate in research activities based in the Department of Computer Science:)
 
-I am excited about using machine learning, and more broadly, data-driven techniques to deliver impactful solutions.
+I am excited about using data-driven techniques to solve pertinent problems.
 
 
 ## Projects
@@ -32,6 +32,9 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 - [A mini-personal project](https://github.com/pixieprix/MaLSTM): Largely replicated the model detailed in the paper titled Siamese Recurrent Architectures for Learning Sentence Similarity. 
 
+#### Others:
+
+- [job-search](https://github.com/pixieprix/job_search): A mini web-app that visualises scraped data pertaining to job advertisements. Built with Selenium and BeautifulSoup (Scraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
 
 
 ## Miscellaneous
