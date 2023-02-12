@@ -7,7 +7,7 @@ layout: homepage
 Hi! My name is Priscilla, and I am a first year Master's student at Aalto University, majoring in Machine Learning, Data Science and Artificial Intelligence. I am also part of the doctoral track.
 This means I get to participate in research activities based in the Department of Computer Science:)
 
-I am excited about using data-driven techniques to solve pertinent problems.
+I am excited about using data-driven techniques for solving pertinent problems.
 
 
 ## Projects
@@ -34,7 +34,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 #### Others:
 
-- [job-search](https://github.com/pixieprix/job_search): A mini web-app that visualises scraped data pertaining to job advertisements. Built with Selenium and BeautifulSoup (Scraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
+- [Job-search](https://github.com/pixieprix/job_search): A mini web-app that visualises scraped data pertaining to job advertisements. Built with Selenium and BeautifulSoup (Scraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
 
 
 ## Miscellaneous
