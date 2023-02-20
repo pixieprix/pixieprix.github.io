@@ -7,9 +7,7 @@ layout: homepage
 Hi! My name is Priscilla, and I am a first year Master's student at Aalto University, majoring in Machine Learning, Data Science and Artificial Intelligence. I am also part of the doctoral track.
 This means I get to participate in research activities based in the Department of Computer Science:)
 
-I am excited about solving pertinent problems. In particular, I am in favour of data-driven techniques, though I am open to new approaches and ideas if
-they seem viable.
-
+I am excited about solving pertinent problems. In particular, I am in favour of data-driven techniques, though I am open to new approaches and ideas as well.
 
 ## Projects
 
