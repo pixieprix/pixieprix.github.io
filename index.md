@@ -7,7 +7,8 @@ layout: homepage
 Hi! My name is Priscilla, and I am a first year Master's student at Aalto University, majoring in Machine Learning, Data Science and Artificial Intelligence. I am also part of the doctoral track.
 This means I get to participate in research activities based in the Department of Computer Science:)
 
-I am excited about using data-driven techniques for solving pertinent problems.
+I am excited about solving pertinent problems. In particular, I am in favour of data-driven techniques, though I am open to new approaches and ideas if
+they seem viable.
 
 
 ## Projects
@@ -25,7 +26,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 #### Reinforcement Learning:
 
-- [Deep offline reinforcement learning for real-world treatment optimization applications](https://openreview.net/forum?id=pKkq17YQgK1): in submission
+- [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): in submission.
 - [A mini-class project](https://pixieprix-rl-final-projectstreamlit-projectstreamlit-app-eekbxl.streamlit.app/): Implemented DQN and DDPG on the mountaincar environment. Also implemented and provided a summary of a more recent paper: Dueling network architectures for deep reinforcement learning.
 
 #### Natural Language Processing:
@@ -39,7 +40,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 ## Miscellaneous
 
-Aside from research, I enjoy interacting and interfacing with people! I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR. More recently, I volunteered as a Speaker's buddy @ Slush 2022.
+Aside from research, I enjoy interacting and interfacing with people! I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR. More recently, I volunteered as a Speaker's buddy @ Slush 2022 in Helsinki.
 
 <!-- ## News
 
