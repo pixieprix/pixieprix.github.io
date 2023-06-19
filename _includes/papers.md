@@ -1,18 +1,21 @@
-### Papers
+# Papers
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
-
-## On my reading list:
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+### Already read/skimmed:
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://conferences.miccai.org/2022/papers/398-Paper0362.html"><autocolor>Progression models for imaging data with Longitudinal Variational Auto Encoders</autocolor></a></li>
 </ul>
+
+
+
+### On my reading list:
+
+<!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4> -->
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://arxiv.org/pdf/1506.02557.pdf"><autocolor>Variational Dropout and
+the Local Reparameterization Trick</autocolor></a></li>
+  <li><a href="https://proceedings.mlr.press/v139/mita21a.html"><autocolor>An Identifiable Double VAE For Disentangled Representations</autocolor></a></li>
+   <li><a href="https://discovery.ucl.ac.uk/id/eprint/10148091/2/phd_thesis_ilyes_khemakhem_17121553_final.pdf"><autocolor>Advances in Identifiability of Nonlinear Probabilistic Models (Ilyes Khemakhem' thesis)</autocolor></a></li>
+</ul>
+
