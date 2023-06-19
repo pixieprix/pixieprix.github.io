@@ -15,7 +15,7 @@ Just wanted a centralised platform to document tips/tricks I've stumbled upon + 
 
 ### Exciting stuff I've been part of:
 
- [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package fitting finite mixture models with a random number of components.
+ [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package for fitting finite mixture models with a random number of components.
 
  [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): Accepted at 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023 (Applied Data Science Track).
 
