@@ -2,6 +2,16 @@
 layout: homepage
 ---
 
+## About this page
+
+Just wanted a centralised platform to document tips/tricks I've stumbled upon + papers I've read. 
+
+
+<!-- {% include_relative _includes/tips.md %} -->
+
+
+<!-- {% include_relative _includes/papers.md %} -->
+<!--
 ## About Me
 
 Hi! My name is Priscilla, and I am a first year Master's student at Aalto University, majoring in Machine Learning, Data Science and Artificial Intelligence. I am also part of the doctoral track.
@@ -39,7 +49,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 ## Miscellaneous
 
 Aside from research, I enjoy interacting and interfacing with people! I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR. More recently, I volunteered as a Speaker's buddy @ Slush 2022 in Helsinki.
-
+ -->
 <!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
