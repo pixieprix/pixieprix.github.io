@@ -7,10 +7,10 @@ layout: homepage
 Just wanted a centralised platform to document tips/tricks I've stumbled upon + papers I've read. 
 
 
-<!-- {% include_relative _includes/tips.md %} -->
+{% include_relative _includes/tips.md %} 
 
 
-<!-- {% include_relative _includes/papers.md %} -->
+{% include_relative _includes/papers.md %} 
 <!--
 ## About Me
 
