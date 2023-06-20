@@ -13,6 +13,7 @@
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4> -->
 
 <ul style="margin:0 0 20px;">
+   <li><a href="https://openreview.net/pdf?id=HJgSwyBKvr"><autocolor>Weakly Supervised Disentanglement with Guarantees</autocolor></a></li>
   <li><a href="https://arxiv.org/pdf/1506.02557.pdf"><autocolor>Variational Dropout and
 the Local Reparameterization Trick</autocolor></a></li>
   <li><a href="https://proceedings.mlr.press/v139/mita21a.html"><autocolor>An Identifiable Double VAE For Disentangled Representations</autocolor></a></li>
