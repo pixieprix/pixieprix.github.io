@@ -18,6 +18,6 @@
 the Local Reparameterization Trick</autocolor></a></li>
   <li><a href="https://proceedings.mlr.press/v139/mita21a.html"><autocolor>An Identifiable Double VAE For Disentangled Representations</autocolor></a></li>
    <li><a href="https://discovery.ucl.ac.uk/id/eprint/10148091/2/phd_thesis_ilyes_khemakhem_17121553_final.pdf"><autocolor>Advances in Identifiability of Nonlinear Probabilistic Models (Ilyes Khemakhem' thesis)</autocolor></a></li>
-  <li> <a href="https://arxiv.org/abs/2007.00810"><autocolor>On Linear Identifiability of Learned Representations></autocolor></a></li>
+  <li> <a href="https://arxiv.org/abs/2007.00810"><autocolor>On Linear Identifiability of Learned Representations</autocolor></a></li>
 </ul>
 
