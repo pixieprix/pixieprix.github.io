@@ -20,5 +20,6 @@ the Local Reparameterization Trick</autocolor></a></li>
    <li><a href="https://discovery.ucl.ac.uk/id/eprint/10148091/2/phd_thesis_ilyes_khemakhem_17121553_final.pdf"><autocolor>Advances in Identifiability of Nonlinear Probabilistic Models (Ilyes Khemakhem' thesis)</autocolor></a></li>
   <li> <a href="https://arxiv.org/abs/2007.00810"><autocolor>On Linear Identifiability of Learned Representations</autocolor></a></li>
   <li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8784019/">Should I use fixed effects or random effects when I have fewer than five levels of a grouping factor in a mixed-effects model?</autocolor></li>
+  <li> <a href="https://www.jstor.org/stable/2685526">Conditional Linear Mixed Models</li>
 </ul>
 
