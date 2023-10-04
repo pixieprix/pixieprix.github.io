@@ -5,7 +5,7 @@ layout: homepage
 
 ## About this page
 
-Just wanted a centralised platform to document tips/tricks I've stumbled upon + papers I've read. 
+Wanted a centralised platform to document tips/tricks I've stumbled upon + papers I've read. 
 
 
 {% include_relative _includes/tips.md %} 
