@@ -5,16 +5,16 @@ layout: homepage
 
 <!-- ## About this page
 
-Wanted a centralised platform to document tips/tricks I've stumbled upon + papers I've read. 
+Wanted a centralised platform to document tips/tricks I've stumbled upon + papers I've read.  
 
 
-{% include_relative _includes/tips.md %} 
+<!-- {% include_relative _includes/tips.md %} --!>
 
 
-{% include_relative _includes/papers.md %} 
+<!-- {% include_relative _includes/papers.md %}  --!>
 
 
-### Exciting stuff I've been part of:
+<!-- ### Exciting stuff I've been part of:
 
  - [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package for fitting finite mixture models with a random number of components.
 
