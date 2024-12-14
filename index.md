@@ -1,9 +1,9 @@
 ---
 layout: homepage
 ---
-<!-- # Just me & my research
+<!-- # Just me & my research --!>
 
-## About this page
+<!-- ## About this page
 
 Wanted a centralised platform to document tips/tricks I've stumbled upon + papers I've read. 
 
