@@ -23,7 +23,7 @@ the Local Reparameterization Trick</autocolor></a></li>
   <li> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8784019/"><autocolor>Should I use fixed effects or random effects when I have fewer than five levels of a grouping factor in a mixed-effects model?</autocolor></a></li>
   <li> <a href="https://www.jstor.org/stable/2685526"><autocolor>Conditional Linear Mixed Models</autocolor></a></li> 
 </ul> 
--->
+
 
 
 
