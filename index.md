@@ -59,7 +59,7 @@ I also enjoy collaborating with people on various fronts. I have been an orienta
 <!-- 
 ## Miscellaneous
 
-Aside from research, I enjoy interacting and interfacing with people! I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR. More recently, I volunteered as a Speaker's buddy @ Slush 2022 and  in Helsinki.
+Aside from research, I enjoy interacting and interfacing with people! I have been an orientation group leader, vice-captain of the NUS waterpolo team, and co-organised a virtual team-building event for my division during my time at ASTAR. More recently, I volunteered as a Speaker's buddy @ Slush 2022 and  in Helsinki.
  -->
 <!-- ## News
 
