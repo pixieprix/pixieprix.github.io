@@ -1,7 +1,7 @@
 ---
 layout: homepage
 ---
-# Just me & my research
+<!-- # Just me & my research
 
 ## About this page
 
@@ -20,30 +20,28 @@ Wanted a centralised platform to document tips/tricks I've stumbled upon + paper
 
  - [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): Accepted at 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023 (Applied Data Science Track).
 
-<!--
+ !-->
+
+
 ## About Me
 
-Hi! My name is Priscilla, and I am a first year Master's student at Aalto University, majoring in Machine Learning, Data Science and Artificial Intelligence. I am also part of the doctoral track.
-This means I get to participate in research activities based in the Department of Computer Science:)
+Hi! I am Priscilla. I just completed my Master's degree at Aalto University, where I majored in Machine Learning, Data Science and Artificial Intelligence. Previously, I pursued my undergraduate studies at Yale-NUS in Singapore. 
 
-I am excited about solving pertinent problems. In particular, my work favours data-driven techniques, though I am open to new approaches and ideas as well.
+I am excited about problem solving, with a particular interest in leveraging data-driven approaches to uncover insights.  
 
-## Projects
+## Exciting stuff I have been part of:
 
 Some of my past (and ongoing) projects which have been organised somewhat thematically can be found below:
 
-#### General Machine Learning:
+#### Machine Learning Research:
 
-- Predicted patient outcomes based on real-world Electronic Healthcare Records. Looked at quantifying the uncertainty in model predictions.
-
-#### Bayesian:
-
+- [LMM-VAE](https://openreview.net/forum?id=6huQApLcJK): Designed a scalable and effective framework to model longitudinal data. Presented at ICML SPIGM 2024 and ML4H 2024 (Findings).   
+- [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): Accepted at 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 - [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package fitting finite mixture models with a random number of components.
-- Research Experience Project 1: Performed preliminary studies of encoding a linear(-mixed model) prior into a Variational AutoEncoder.
+
 
 #### Reinforcement Learning:
 
-- [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): in submission.
 - [A mini-class project](https://pixieprix-rl-final-projectstreamlit-projectstreamlit-app-eekbxl.streamlit.app/): Implemented DQN and DDPG on the mountaincar environment. Also implemented and provided a summary of a more recent paper: Dueling network architectures for deep reinforcement learning.
 
 #### Natural Language Processing:
@@ -54,10 +52,14 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 - [Job-search](https://github.com/pixieprix/job_search): A mini web-app that visualises scraped data pertaining to job advertisements found on indeed.com. Built with Selenium and BeautifulSoup (webscraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
 
-
 ## Miscellaneous
 
-Aside from research, I enjoy interacting and interfacing with people! I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR. More recently, I volunteered as a Speaker's buddy @ Slush 2022 in Helsinki.
+I also enjoy collaborating with people on various fronts. I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR.  More recently, I volunteered as a Speaker's buddy/ Partner Side Events Team  @ Slush 2022/2023 in Helsinki. 
+
+<!-- 
+## Miscellaneous
+
+Aside from research, I enjoy interacting and interfacing with people! I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR. More recently, I volunteered as a Speaker's buddy @ Slush 2022 and  in Helsinki.
  -->
 <!-- ## News
 
