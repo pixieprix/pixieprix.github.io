@@ -25,7 +25,7 @@ Wanted a centralised platform to document tips/tricks I've stumbled upon + paper
 
 ## About Me
 
-Hi! I am Priscilla. I just completed my Master's degree at Aalto University, where I majored in Machine Learning, Data Science and Artificial Intelligence. Previously, I pursued my undergraduate studies at Yale-NUS in Singapore. 
+Hi! I am Priscilla. I just completed my Master's degree at Aalto University, where I majored in Machine Learning, Data Science and Artificial Intelligence. Previously, I pursued my undergraduate studies at Yale-NUS College in Singapore. 
 
 I am excited about problem solving, with a particular interest in leveraging data-driven approaches to uncover insights.  
 
@@ -56,7 +56,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 ## Miscellaneous
 
-I also enjoy collaborating with people on various fronts. I have been an orientation group leader, vice-captain of the NUS waterpolo team, and also co-organised a virtual team-building event for my division during my time at ASTAR.  More recently, I volunteered as a Speaker's buddy/ Partner Side Events Team  @ Slush 2022/2023 in Helsinki. 
+I also enjoy collaborating with people on various fronts. I have been an orientation group leader, vice-captain of the NUS waterpolo team, and co-organised a virtual team-building event for my division during my time at ASTAR.  More recently, I volunteered as a Speaker's buddy/ Partner Side Events Team  @ Slush 2022/2023 in Helsinki. 
 
 <!-- 
 ## Miscellaneous
