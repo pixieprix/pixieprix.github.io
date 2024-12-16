@@ -50,6 +50,8 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 #### Others:
 
+- [Vaccine Distribution](https://project-vaccine-distribution.streamlit.app/): Our project page documenting the design and implementation of a database for vaccine distribution.
+
 - [Job-search](https://github.com/pixieprix/job_search): A mini web-app that visualises scraped data pertaining to job advertisements found on indeed.com. Built with Selenium and BeautifulSoup (webscraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
 
 ## Miscellaneous
