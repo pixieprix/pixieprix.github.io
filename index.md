@@ -25,7 +25,7 @@ Wanted a centralised platform to document tips/tricks I've stumbled upon + paper
 
 ## About Me
 
-Hi! I am Priscilla. I just completed my Master's degree at Aalto University, where I majored in Machine Learning, Data Science and Artificial Intelligence. Previously, I pursued my undergraduate studies at Yale-NUS College in Singapore. 
+Hi! I am Priscilla. I will be graduating with a Master’s degree from Aalto University this December, specializing in Machine Learning, Data Science, and Artificial Intelligence. Previously, I completed my undergraduate studies at Yale-NUS College in Singapore. 
 
 I am excited about problem solving, with a particular interest in leveraging data-driven approaches to uncover insights.  
 
@@ -38,6 +38,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 - [LMM-VAE](https://openreview.net/forum?id=6huQApLcJK): Designed a scalable and effective framework to model longitudinal data. Presented at ICML SPIGM 2024 and ML4H 2024 (Findings).   
 - [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): Accepted at 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 - [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package fitting finite mixture models with a random number of components.
+- My Master's thesis: exploring continuous time deep learning approaches for modelling longitudinal data (TLDR).
 
 
 #### Reinforcement Learning:
