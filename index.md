@@ -16,7 +16,7 @@ Wanted a centralised platform to document tips/tricks I've stumbled upon + paper
 
 <!-- ### Exciting stuff I've been part of:
 
- - [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package for fitting finite mixture models with a random number of components.
+ - [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): Contributed to an R package for fitting finite mixture models with a random number of components.
 
  - [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): Accepted at 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023 (Applied Data Science Track).
 
@@ -36,9 +36,9 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 #### Machine Learning Research:
 
 - [LMM-VAE](https://openreview.net/forum?id=6huQApLcJK): Designed a scalable and effective framework to model longitudinal data. Presented at ICML SPIGM 2024 and ML4H 2024 (Findings).   
-- [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): Accepted at 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
-- [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): an R package fitting finite mixture models with a random number of components.
-- My Master's thesis: exploring continuous time deep learning approaches for modelling longitudinal data (TLDR).
+- [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): Contributed to a project on treatment optimization for healthcare applications. Accepted at 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
+- [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): Contributed to an R package fitting finite mixture models with a random number of components.
+- My Master's thesis: Explored continuous time deep learning approaches for modelling longitudinal data (TLDR).
 
 
 #### Reinforcement Learning:
@@ -51,13 +51,13 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 #### Others:
 
-- [Vaccine Distribution](https://project-vaccine-distribution.streamlit.app/): Our project page documenting the design and implementation of a database for vaccine distribution.
+- [Vaccine Distribution](https://project-vaccine-distribution.streamlit.app/): Contributed to the design and implementation of a database for vaccine distribution as part of a course project.
 
-- [Job-search](https://github.com/pixieprix/job_search): A mini web-app that visualises scraped data pertaining to job advertisements found on indeed.com. Built with Selenium and BeautifulSoup (webscraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
+- [Job-search](https://github.com/pixieprix/job_search): Implemented a mini web-app that visualises scraped data pertaining to job advertisements found on indeed.com. Built with Selenium and BeautifulSoup (webscraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
 
 ## Miscellaneous
 
-I also enjoy collaborating with people on various fronts. I have been an orientation group leader, vice-captain of the NUS waterpolo team, and co-organised a virtual team-building event for my division during my time at ASTAR.  More recently, I volunteered as a Speaker's buddy/ Partner Side Events Team  @ Slush 2022/2023 in Helsinki. 
+I also enjoy collaborating with people on various fronts. I have been an orientation group leader, vice-captain of the NUS waterpolo team, and co-organised a virtual team-building event for my division during my time at ASTAR.  More recently, I volunteered as a Speaker's buddy/ joined the Partner Side Events Team  @ Slush 2022/2023 in Helsinki. 
 
 <!-- 
 ## Miscellaneous
