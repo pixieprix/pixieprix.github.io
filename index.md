@@ -31,7 +31,7 @@ I am excited about problem solving, with a particular interest in leveraging dat
 
 ## Exciting stuff I have been part of:
 
-Some of my past (and ongoing) projects which have been organised somewhat thematically can be found below:
+Some of my past (and ongoing) projects can be found below:
 
 #### Machine Learning Research:
 
