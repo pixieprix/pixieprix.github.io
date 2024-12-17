@@ -37,7 +37,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 - [LMM-VAE](https://openreview.net/forum?id=6huQApLcJK): Designed a scalable and effective framework to model longitudinal data. Presented at ICML SPIGM 2024 and ML4H 2024 (Findings).   
 - [Deep offline reinforcement learning for real-world treatment optimization applications](http://arxiv.org/abs/2302.07549): Contributed to a project on treatment optimization for healthcare applications. Accepted at 29th SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
-- [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): Contributed to an R package fitting finite mixture models with a random number of components.
+- [AntMAN](https://cran.rstudio.com/web/packages/AntMAN/index.html): Contributed to an R package for fitting finite mixture models with a random number of components.
 - My Master's thesis: Explored continuous time deep learning approaches for modelling longitudinal data (TLDR).
 
 
