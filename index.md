@@ -53,7 +53,7 @@ Some of my past (and ongoing) projects which have been organised somewhat themat
 
 - [Vaccine Distribution](https://project-vaccine-distribution.streamlit.app/): Contributed to the design and implementation of a database for vaccine distribution as part of a course project.
 
-- [Job-search](https://github.com/pixieprix/job_search): Implemented a mini web-app that visualises scraped data pertaining to job advertisements found on indeed.com. Built with Selenium and BeautifulSoup (webscraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
+- [Job-search](https://github.com/pixieprix/job_search): Implemented a mini web-app that visualizes scraped data pertaining to job advertisements found on indeed.com. Built with Selenium and BeautifulSoup (webscraper), Sqlite (Database), FastAPI (Backend), Streamlit (Frontend UI), and Docker.
 
 ## Miscellaneous
 
