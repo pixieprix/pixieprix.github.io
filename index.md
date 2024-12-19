@@ -27,7 +27,7 @@ Wanted a centralised platform to document tips/tricks I've stumbled upon + paper
 
 Hi! I am Priscilla. I will be graduating with a Master’s degree from Aalto University this December, specializing in Machine Learning, Data Science, and Artificial Intelligence. Previously, I completed my undergraduate studies at Yale-NUS College in Singapore. 
 
-I am passionate about problem-solving, with a strong interest in leveraging data-driven approaches to uncover meaningful insights. I am also motivated by the opportunity to contribute to the development of technical products with real-world impact.
+I am passionate about problem-solving, with a strong interest in leveraging data-driven approaches to uncover meaningful insights. I am also motivated by the opportunity to contribute to the development of technical solutions with real-world impact.
 
 ## Exciting stuff I have been part of:
 
